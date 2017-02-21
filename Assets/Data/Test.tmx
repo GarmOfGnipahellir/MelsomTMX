@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" source="../../ContentCreation/Tiled/Architecture.tsx"/>
+ <layer name="Arch" width="10" height="10">
+  <data encoding="csv">
+5,2,2,2,2,2,2,2,2,6,
+1,13,13,13,13,13,13,13,13,3,
+1,13,11,4,12,11,4,12,13,3,
+1,13,3,5,9,10,6,1,13,3,
+1,13,10,9,13,13,10,9,13,3,
+1,13,11,12,13,13,11,12,13,3,
+1,13,3,8,12,11,7,1,13,3,
+1,13,10,2,9,10,2,9,13,3,
+1,13,13,13,13,13,13,13,13,3,
+8,4,4,4,4,4,4,4,4,7
+</data>
+ </layer>
+</map>
