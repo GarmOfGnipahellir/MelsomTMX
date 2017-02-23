@@ -4,7 +4,7 @@ using System;
 using System.IO;
 using System.Text.RegularExpressions;
 
-namespace MelsomTMX {
+namespace TiledMaps {
 	public class TiledMapSelectorWindow : EditorWindow {
 		Action<string> returnAction;
 
